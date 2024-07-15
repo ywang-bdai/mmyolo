@@ -21,7 +21,7 @@ visualizer = dict(
     name='visualizer')
 log_processor = dict(type='LogProcessor', window_size=50, by_epoch=True)
 
-log_level = 'INFO'
+log_level = 'CRITICAL'
 load_from = None
 resume = False
 
