@@ -1,3 +1,4 @@
+# type: ignore
 _base_ = ['../_base_/default_runtime.py', '../_base_/det_p5_tta.py']
 
 # ========================Frequently modified parameters======================
